@@ -29,5 +29,11 @@ Coming Soon ...
 
 # Examples and Demos
 <div align="center">
-	<img src="./figures/Fig4.PNG" alt="Editor" width="600">
+	<img src="./figures/Fig4.PNG" alt="Editor" width="800">
 </div>
+
+[![ObjectNav-CER](https://res.cloudinary.com/marcomontalbano/image/upload/v1695370231/video_to_markdown/images/youtube--y3vlhnMmRUY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/y3vlhnMmRUY "ObjectNav-CER")
+
+# Acknowledge
+
+Coming Soon ...
