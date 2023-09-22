@@ -2,13 +2,17 @@
 This repository contains the codes for our paper, which is titled "Think Holistically, Act Down-to-Earth: A Semantic Navigation Strategy with Continuous Environmental Representation and Multi-step Forward Planning".
 
 # Abstract
-
+The overview of CER learning:
 <div align="center">
 	<img src="./figures/Fig1.PNG" alt="Editor" width="600">
 </div>
+
+The illustration of ER contrastive learning:
 <div align="center">
 	<img src="./figures/Fig2.PNG" alt="Editor" width="600">
 </div>
+
+The illustration of the value estimation module and the state prediction module:
 <div align="center">
 	<img src="./figures/Fig3.PNG" alt="Editor" width="600">
 </div>
@@ -28,10 +32,12 @@ Coming Soon ...
 Coming Soon ...
 
 # Examples and Demos
+Illustrations of object goal navigation: Two complete navigation processes in the test environment named 2azQ1b91cZZ are illustrated. The goals of the two navigation tasks are the bed and the counter, respectively. At each interval timestep, the RGB observation, semantic segmentation, ELSM, and value map are displayed. The red arrows indicate the agent’s positions and the orientations in the ELSMs. Black stars indicate navigation sub-goals at the specified time step.
 <div align="center">
 	<img src="./figures/Fig4.PNG" alt="Editor" width="800">
 </div>
 
+A ObjectNav demo video:
 [![ObjectNav-CER](https://res.cloudinary.com/marcomontalbano/image/upload/v1695370231/video_to_markdown/images/youtube--y3vlhnMmRUY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/y3vlhnMmRUY "ObjectNav-CER")
 
 # Acknowledge
