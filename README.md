@@ -42,4 +42,6 @@ A ObjectNav demo video:
 
 # Acknowledge
 
-Coming Soon ...
+This work is based on [SSCNav](https://github.com/real-stanford/SSCNav). The authors thank Liang, Yiqing and Chen, Boyuan and Song, Shuran for their works.
+This work is based on [Object-Goal-Navigation](https://github.com/devendrachaplot/Object-Goal-Navigation). The authors thank Devendra Singh Chaplot, Dhiraj Gandhi, Abhinav Gupta, Ruslan Salakhutdinov for their works.
+This work was supported in part by the National Natural Science Foundation of China under 62172443, in part by the Natural Science Foundation of Hunan Province under 2022JJ30760, in part by the Natural Science Foundation of Changsha under kq2202107 and kq2202108. We are grateful for resources from the High-Performance Computing Center of Central South University.
